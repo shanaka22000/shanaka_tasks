@@ -5,7 +5,7 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui impedit repellat, quidem architecto veritatis fugit odio necessitatibus, laborum nulla vel maiores nam at sunt modi. Est dolorem iure in sint.
 
 
-<p> Lorem </p>
+<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
 
 
 <?php include "footer.php"?>
