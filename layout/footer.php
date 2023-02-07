@@ -5,6 +5,7 @@
 
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2020 Copyright
+  <?php echo basename($_SERVER['SCRIPT_FILENAME'])." Last modified date on  " . date("l, d M Y H:i ");?>
   </div>
   <!-- Copyright -->
 
