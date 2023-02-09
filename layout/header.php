@@ -37,6 +37,9 @@
           <a class="nav-link" href="controlflow.php">Exersice 4</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="array_exercise21.php">Exersice 5</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="aboutus.php">About us</a>
         </li>
         <li class="nav-item">
