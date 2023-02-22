@@ -2,8 +2,8 @@
 $title = "simple CRUD app";
 include '../layout/header.php';
 ?>
-<form method="post" action="">
-    <input type="text" name="fname" placeholder="Frist Name" required ><br><br> 
+<form method="post" action="" onsubmit="return crud1()" name="form1">
+    <input type="text" name="fname" placeholder="Frist Name" required onblur="fname"() ><br><br> 
     <input type="text" name="lname" placeholder="Last Name" required ><br><br> 
     <input type="text" name="city" placeholder="City" required ><br><br> 
     <select name="groupid">
